@@ -1,0 +1,154 @@
+.table1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+.td11{
+    width: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+.td22{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+.td33{
+    width: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+.tr44{
+    background-color: green;
+}
+
+
+
+
+
+.table2{
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 15px;
+}
+
+.td123{
+    width: 30px;
+    background-color: burlywood;
+    color: burlywood;
+    border: 1px solid black;
+}
+
+.td01{
+    color: yellow;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 15px;
+}
+
+.td02{
+    width: 50px;
+    color: black;
+    background-color: green;
+    border: 1px solid black;
+}
+
+.td03{
+    border: 1px solid black;    
+    background-color: gray;
+    color: green;
+}
+
+.td04{
+    border: 1px solid black;
+    background-color: green;
+    color: green;
+}
+
+.tr2211{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 15px;
+}
+
+.bbtd0101{
+    border: 1px solid black;
+}
+
+.td05{
+    background-color: burlywood;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 15px;
+}
+
+.abtd01{
+    border: 1px solid black;
+}
+
+.td01012211{
+    border: 1px solid black;
+    color: white;
+}
+
+.table3, td{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.trtr01{
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+.trtr0101{
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+.td4141{
+    width: 170px;
+    background-color: burlywood;
+}
+
+.tdrow1{
+    width: 30px;
+    background-color: burlywood;
+}
+
+.abdullotd0100{
+    width: 50px;
+}
+
+.tdtdtd01{
+    background-color: gray;
+}
